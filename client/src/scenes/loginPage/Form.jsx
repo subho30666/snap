@@ -42,8 +42,8 @@ const initialValuesRegister = {
 };
 
 const initialValuesLogin = {
-  email: "",
-  password: "",
+  email: "test@test.com",
+  password: "123",
 };
 
 const Form = () => {
