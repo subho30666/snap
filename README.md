@@ -6,7 +6,7 @@
 
   <br />
     <a href="https://room-liard-ten.vercel.app" target="_blank">
-      <img src="https://github.com/subho30666/room/blob/master/public/images/room-rounded-min.png" alt="Project Banner" width="900" style="border-radius:10%;" >
+      <img src="https://github.com/subho30666/snap/blob/main/client/public/assets/snap-modified.png" alt="Project Banner" width="900" style="border-radius:10%;" >
     </a>
   
   <br />
