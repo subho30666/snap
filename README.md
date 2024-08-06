@@ -2,10 +2,10 @@
  A Simplified full stack social media MERN app
 <div align="center">
 
-<a href="https://room-liard-ten.vercel.app">visit live app</a>
+<a href="https://snap-delta-orpin.vercel.app/">visit live app</a>
 
   <br />
-    <a href="https://room-liard-ten.vercel.app" target="_blank">
+    <a href="https://snap-delta-orpin.vercel.app/" target="_blank">
       <img src="https://github.com/subho30666/snap/blob/main/client/public/assets/snap-modified.png" alt="Project Banner" width="900" style="border-radius:10%;" >
     </a>
   
